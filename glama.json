@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "邮轮产品技能 (ClawHub)",
+  "description": "在 ClawHub 平台上提供邮轮产品信息，用户可以通过此技能获取最新邮轮产品详情。"
+}
